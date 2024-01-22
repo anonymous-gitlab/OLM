@@ -1,0 +1,4 @@
+# ninja log v5
+0	4184	0	/home/xxx/cv/pytorch-image-models-main/timm/models/ops/build/temp.linux-x86_64-3.6/home/xxx/cv/pytorch-image-models-main/timm/models/ops/src/cpu/ms_deform_attn_cpu.o	3f3aa407374765fd
+0	15238	0	/home/xxx/cv/pytorch-image-models-main/timm/models/ops/build/temp.linux-x86_64-3.6/home/xxx/cv/pytorch-image-models-main/timm/models/ops/src/cuda/ms_deform_attn_cuda.o	574fbb315b961ac5
+0	19703	0	/home/xxx/cv/pytorch-image-models-main/timm/models/ops/build/temp.linux-x86_64-3.6/home/xxx/cv/pytorch-image-models-main/timm/models/ops/src/vision.o	759ac43b19e3a2b7
